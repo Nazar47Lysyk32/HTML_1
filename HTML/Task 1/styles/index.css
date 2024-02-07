@@ -1,0 +1,21 @@
+
+body{
+    width: 40%;
+    background-color: rgb(245, 245, 245);
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Sometype Mono', monospace;
+    margin-left: 30%;
+}
+
+header{
+    color: rgb(58, 66, 167);
+    text-align: center;
+}
+
+.headers {
+    color: rgb(123, 148, 177);
+}
+
+.text_table{
+    display: table;
+}
